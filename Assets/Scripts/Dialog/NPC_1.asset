@@ -12,3 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e4b3924e9ea51a4fa10cd0ba056cc4b, type: 3}
   m_Name: NPC_1
   m_EditorClassIdentifier: 
+  actor: {fileID: 5969739235993472388, guid: 117eb4d4e83d33a458c2d592316949ef, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Mo\xE7a"
+    profile: {fileID: -2120797532, guid: ce408f576fb42404d97df18a38fbbd7e, type: 3}
+    sentence:
+      Portuguese: "Ol\xE1!"
+      English: Hello!
+      Spanish: 
+  - actorName: Player
+    profile: {fileID: 21300000, guid: 2aa34ecfacc5d924f98f0ae67ba03b92, type: 3}
+    sentence:
+      Portuguese: oi
+      English: Hi
+      Spanish: 
